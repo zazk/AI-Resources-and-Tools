@@ -22,6 +22,23 @@ StoryLab uses AI technology to automate the video creation process, making it po
 
 With Jenny, users can create custom workflows that automate tasks such as data entry, report generation, and customer service. The platform uses AI technology to learn from user behavior and improve over time, making it more efficient and effective.
 
+### DALL-E
+
+[DALL-E](https://openai.com/dall-e/) is an artificial intelligence (AI) model developed by OpenAI that generates images from textual descriptions. It was named after the artist Salvador Dali and the character Eve from the movie "Wall-E."
+
+DALL-E is trained on a dataset of textual descriptions and corresponding images, allowing it to understand the relationship between language and visual content. Users can provide a textual description, such as "an armchair in the shape of an avocado," and DALL-E will generate an image that matches the description.
+
+### Synthesia
+
+[Synthesia](https://www.synthesia.io/) is an AI-powered video creation platform that allows users to create high-quality videos using only text.
+
+With Synthesia, users can input a script, choose a character, and customize the background, music, and voiceover. The platform uses AI technology to animate the character's movements and lip-sync the dialogue to the voiceover, resulting in a high-quality video that looks like it was created by a professional animation studio.
+
+# Nightcafe AI
+
+[Nightcafe AI](https://www.nightcafe.ai/) is an artificial intelligence (AI) tool that automatically enhances low-light images using a combination of machine learning (ML) algorithms and computer vision technology.
+
+Nightcafe AI's technology works by analyzing the pixels in low-light images and using ML algorithms to predict what the image would look like if it were taken in better lighting conditions. The software then uses computer vision techniques to enhance the image by adjusting the brightness, contrast, and other parameters.
 
 
 ## Bussiness Ideas
