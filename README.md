@@ -3,6 +3,12 @@ This Github repository is dedicated to providing a comprehensive collection of r
 
 ## Tools
 
+### Simplified AI
+
+[Simplified AI](https://simplified.com/ai-writer/) Simplified is an online learning platform that provides easy-to-understand courses and content on various topics related to technology and programming. It aims to make complex concepts simple and accessible to everyone, regardless of their background or expertise level.
+
+In addition to courses, Simplified also provides engaging articles, tutorials, and videos on various topics related to technology and programming. The content is created by industry experts and is regularly updated to ensure its relevance and accuracy.
+
 ### QuillBot 
 [QuillBot](https://quillbot.com/) is an AI-powered writing assistant that can help users rephrase, summarize, and paraphrase text. 
 
@@ -34,7 +40,7 @@ DALL-E is trained on a dataset of textual descriptions and corresponding images,
 
 With Synthesia, users can input a script, choose a character, and customize the background, music, and voiceover. The platform uses AI technology to animate the character's movements and lip-sync the dialogue to the voiceover, resulting in a high-quality video that looks like it was created by a professional animation studio.
 
-# Nightcafe AI
+### Nightcafe AI
 
 [Nightcafe AI](https://www.nightcafe.ai/) is an artificial intelligence (AI) tool that automatically enhances low-light images using a combination of machine learning (ML) algorithms and computer vision technology.
 
